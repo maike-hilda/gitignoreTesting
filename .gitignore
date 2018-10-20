@@ -2,4 +2,4 @@ data/*
 !data/.gitignore
 
 lst/*
-!1st/.gitignore
+!lst/.gitignore
